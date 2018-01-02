@@ -31,9 +31,11 @@ Imagine that the client does not want to receive the same result every time the 
 Whenever a new record is added, the alert will be activated showing only once, only the new records
 
 * Adding a new PN
+
 ![Screenshot](img/4-1.png)
 
 * Receiving alert
+
 ![Screenshot](img/4-2.png)
 
 

@@ -20,4 +20,8 @@ Imagine that the client does not want to receive the same result every time the 
 
 3 - Third, create an alert in "Alert Management" with a frequency of 1 in 1 minute and point the query save in step 2
 
+# Final result
+
+Whenever a new record is added, the alert will be activated showing only once, only the new records
+
 

@@ -15,11 +15,16 @@ Imagine that the client does not want to receive the same result every time the 
 # Usage
 
 1 - First, open the "Query Manager" , execute the query "1 - Intermediatio PN Table.sql" so that the table is created and fed with all existing records.
+
 ![Screenshot](img/1.png)
 
 2 - Second, open the "Query Manager", paste the query "2 - New PN result Alert.sql" and save
 
+![Screenshot](img/2.png)
+
 3 - Third, create an alert in "Alert Management" with a frequency of 1 in 1 minute and point the query save in step 2
+
+![Screenshot](img/3.png)
 
 # Final result
 

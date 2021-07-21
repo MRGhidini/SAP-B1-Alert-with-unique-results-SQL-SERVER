@@ -2,7 +2,7 @@
 
 Alert that always returns unique records, being triggered whenever there are new results
 
-Alert: Go in link to see a new version that meets SAP version 10 and does not use cursors [Link](https://github.com/MRGhidini/SAP-B1-Alert-with-unique-results-SQL-SERVER-New)
+Notice: Go in link to see a new version that meets SAP version 10 and does not use cursors [Link](https://github.com/MRGhidini/SAP-B1-Alert-with-unique-results-SQL-SERVER-New)
 
 # Symptom
 

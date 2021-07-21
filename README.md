@@ -2,6 +2,8 @@
 
 Alert that always returns unique records, being triggered whenever there are new results
 
+Alert: Go in link to see a new version that meets SAP version 10 and does not use cursors [Link](https://github.com/MRGhidini/SAP-B1-Alert-with-unique-results-SQL-SERVER-New)
+
 # Symptom
 
 Imagine that the client does not want to receive the same result every time the alert is triggered, and wants only new records every time they are added. (As an example I will use the PN registry)
